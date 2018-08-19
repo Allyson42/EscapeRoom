@@ -14,7 +14,7 @@ namespace EscapeRoom
             Console.WriteLine("Hit Enter to continue...");
             Console.ReadLine();
             Console.Clear();
-            Console.WriteLine("You wake up in an unfamiliar bedroom, on the floor. There is a bed, a dresser, a desk and a closet. The window over the bed faces North, the closet is on the opposite wall.");
+            Console.WriteLine("You wake up in an unfamiliar bedroom, on the floor. There is a bed, a dresser, a desk and a closet. The closet is on the opposite wall.");
             string userResponse = "";
             string currentCommand = "";
             string primaryObjectName = "";
